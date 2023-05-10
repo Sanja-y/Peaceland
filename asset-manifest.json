@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Sanja-y/Peaceland.git/static/css/main.b0c13fd7.css",
+    "main.js": "/Sanja-y/Peaceland.git/static/js/main.64e19160.js",
+    "static/js/787.57ed637a.chunk.js": "/Sanja-y/Peaceland.git/static/js/787.57ed637a.chunk.js",
+    "static/media/Garden.jpg": "/Sanja-y/Peaceland.git/static/media/Garden.de52e436f9217f5425be.jpg",
+    "static/media/Main.jpg": "/Sanja-y/Peaceland.git/static/media/Main.72b1a281a9d05555ca6a.jpg",
+    "static/media/Branch.png": "/Sanja-y/Peaceland.git/static/media/Branch.a2e060bed9037cb79708.png",
+    "static/media/Occasion.png": "/Sanja-y/Peaceland.git/static/media/Occasion.83b543bc404b04334d40.png",
+    "static/media/Loved.png": "/Sanja-y/Peaceland.git/static/media/Loved.aad0fa69ad116bdc3cc3.png",
+    "static/media/Grow.png": "/Sanja-y/Peaceland.git/static/media/Grow.a45c32c9e5afecf649fe.png",
+    "static/media/Rose.png": "/Sanja-y/Peaceland.git/static/media/Rose.29f3179b04ccd374be94.png",
+    "static/media/Peaceland.svg": "/Sanja-y/Peaceland.git/static/media/Peaceland.3c725a933f621c9c34cf579d900f631f.svg",
+    "static/media/instagram.svg": "/Sanja-y/Peaceland.git/static/media/instagram.c6b8cb38e27fa08147a5848badee6975.svg",
+    "static/media/twitter.svg": "/Sanja-y/Peaceland.git/static/media/twitter.770c4fec194e1e46d63c494c3abf339c.svg",
+    "static/media/Share.svg": "/Sanja-y/Peaceland.git/static/media/Share.efd90187845067bb1ff2c65009116f0d.svg",
+    "index.html": "/Sanja-y/Peaceland.git/index.html",
+    "static/media/facebook.svg": "/Sanja-y/Peaceland.git/static/media/facebook.d7c0b4e9ce034fb8d8f719d7fbc5fd90.svg",
+    "static/media/tiktok.svg": "/Sanja-y/Peaceland.git/static/media/tiktok.f373d73ff6f1cb59e5712b50e77ae250.svg",
+    "static/media/Ellipse.svg": "/Sanja-y/Peaceland.git/static/media/Ellipse.851b0b6d7d352f6590ba88f7220d909a.svg",
+    "main.b0c13fd7.css.map": "/Sanja-y/Peaceland.git/static/css/main.b0c13fd7.css.map",
+    "main.64e19160.js.map": "/Sanja-y/Peaceland.git/static/js/main.64e19160.js.map",
+    "787.57ed637a.chunk.js.map": "/Sanja-y/Peaceland.git/static/js/787.57ed637a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0c13fd7.css",
+    "static/js/main.64e19160.js"
+  ]
+}
